@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0EOPJ/ou3jegqHC5TyolN9rGvxVPt9XwiE2kHMd/3grZ315f5RBY7si202DTnuNakt3S2izPIxqQd6JU2ALYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamza_talib\\OneDrive\\Desktop\\dotnet entreprise\\ArtisanalEcommerce\\Artisanal.Web\\Artisanal.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamza_talib\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

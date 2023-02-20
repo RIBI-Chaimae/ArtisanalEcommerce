@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k2VaEoOQCXU8yFJwa8t4fBH5GXbosT0adR5VkiYbxl4=",
+  "Source": "Artisanal.Service.ProductAPI",
+  "BasePath": "_content/Artisanal.Service.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
